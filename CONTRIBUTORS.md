@@ -46,3 +46,11 @@
 - Interest: Anything Art.
 - GitHub: [ItzAboki](https://github.com/ItzAboki)
 - Twitter: [@ItzAboki](https://twitter.com/ItzAboki)
+
+#### Name: [Fauziya Mohammed](https://github.com/Fauziyagegu)
+- Place: Minna, Niger State, Nigeria
+- Bio: Web, Graphics Design, and Tech Enthusiast
+- Department: Telecommunication Engineering
+- Interest: Anything design.
+- GitHub: [Fauziyagegu](https://github.com/Fauziyagegu)
+- Twitter: [@fawziya_mg](https://twitter.com/Fawziya_mg)
