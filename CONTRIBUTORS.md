@@ -53,4 +53,4 @@
 - Department: Telecommunication Engineering
 - Interest: Anything design.
 - GitHub: [Fauziyagegu](https://github.com/Fauziyagegu)
-- Twitter: [@ItzAboki](https://twitter.com/Fauziyagegu)
+- Twitter: [@fawziya_mg](https://twitter.com/Fawziya_mg)
